@@ -1,0 +1,4 @@
+NAME	ADE1	ADE13	ADE17	CAD1	CRZ1	MSN2	SMP1	YAP1
+IMP biosynthetic process	1	1	1	0	0	0	0	0
+response to inorganic substance	0	0	0	1	1	1	0	1
+regulation of transcription from RNA polymerase II promoter in response to stress	0	0	0	1	1	1	1	1

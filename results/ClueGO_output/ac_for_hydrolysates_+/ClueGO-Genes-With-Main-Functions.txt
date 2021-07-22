@@ -1,0 +1,73 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+ADE1	Cluster#1	851272	[YAR015W]	protein_coding	Initial Gene From Selection	IMP biosynthetic process | organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+ADE13	Cluster#1	851073	[BRA1, BRA8, YLR359W]	protein_coding	Initial Gene From Selection	IMP biosynthetic process | organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+ADE17	Cluster#1	855149	[YMR120C]	protein_coding	Initial Gene From Selection	IMP biosynthetic process | organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+ADE6	Cluster#1	852952	[YGR061C]	protein_coding	Initial Gene From Selection	IMP biosynthetic process | organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+APA2	Cluster#1	852143	[YDR530C]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+ARG2	Cluster#1	853374	[HRB574, YJL071W]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+ASC1	Cluster#1	855143	[ASU9, CPC2, NAD1, YMR116C]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytosolic part | ribosome
+ASK10	Cluster#1	852989	[RGC2, YGR097W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress
+CAT8	Cluster#1	855323	[DIL1, MSP8, YMR280C]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+CHS3	Cluster#1	852311	[CAL1, CSD2, DIT101, KTI2, YBR023C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+CIN5	Cluster#1	854193	[HAL6, YAP4, YOR028C]	protein_coding	Initial Gene From Selection	hyperosmotic salinity response | response to salt stress
+CRZ1	Cluster#1	855704	[HAL8, TCN1, YNL027W]	protein_coding	Initial Gene From Selection	hyperosmotic salinity response | response to salt stress | transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding
+DBP1	Cluster#1	855984	[LPH8, YPL119C]	protein_coding	Initial Gene From Selection	translation | amide biosynthetic process | cellular amide metabolic process
+DOM34	Cluster#1	855731	[YNL001W]	protein_coding	Initial Gene From Selection	translation | amide biosynthetic process | cellular amide metabolic process
+ECM5	Cluster#1	855214	[YMR176W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress
+FLO1	Cluster#1	851289	[FLO2, FLO4, YAR050W]	protein_coding	Initial Gene From Selection	cellular response to hydrogen peroxide | response to reactive oxygen species | cellular response to oxidative stress
+FLO8	Cluster#1	856845	[PHD5, STA10, YER108C, YER109C]	pseudo	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+GCN1	Cluster#1	852680	[AAS103, NDR1, YGL195W]	protein_coding	Initial Gene From Selection	cellular response to hydrogen peroxide | response to reactive oxygen species | cellular response to oxidative stress
+GCV1	Cluster#1	851582	[GSD1, YDR019C]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+GLT1	Cluster#1	851383	[YDL171C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+GTR1	Cluster#1	854918	[YML121W]	protein_coding	Initial Gene From Selection	positive regulation of TORC1 signaling | TORC1 signaling
+HAA1	Cluster#1	856117	[YPR008W]	protein_coding	Initial Gene From Selection	core promoter proximal region sequence-specific DNA binding
+HIS6	Cluster#1	854792	[YIL020C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+HIS7	Cluster#1	852550	[YBR248C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+HMG2	Cluster#1	851171	[YLR450W]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+HOT1	Cluster#1	855208	[YMR172W]	protein_coding	Initial Gene From Selection	hyperosmotic salinity response | response to salt stress
+JJJ1	Cluster#1	855495	[YNL227C]	protein_coding	Initial Gene From Selection	cytosolic part | ribosome
+LAG1	Cluster#1	856386	[YHL003C]	protein_coding	Initial Gene From Selection	amide biosynthetic process | cellular amide metabolic process | organonitrogen compound biosynthetic process
+LEU1	Cluster#1	852875	[YGL009C]	protein_coding	Initial Gene From Selection	cytosolic part | organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+LYS12	Cluster#1	854714	[LYS10, LYS11, YIL094C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+LYS2	Cluster#1	852412	[YBR115C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+MCR1	Cluster#1	853707	[YKL150W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress
+MET14	Cluster#1	853869	[YKL001C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+MET5	Cluster#1	853602	[ECM17, YJR137C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+MPO1	Cluster#1	852874	[YGL010W]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+MSN2	Cluster#1	855053	[YMR037C]	protein_coding	Initial Gene From Selection	hyperosmotic salinity response | cellular response to hydrogen peroxide | response to reactive oxygen species
+MTC5	Cluster#1	851706	[SEA3, YDR128W]	protein_coding	Initial Gene From Selection	positive regulation of TORC1 signaling | TORC1 signaling
+NPR1	Cluster#1	855538	[YNL183C]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+NST1	Cluster#1	855633	[YNL091W]	protein_coding	Initial Gene From Selection	response to salt stress
+PCP1	Cluster#1	852993	[MDM37, RBD1, UGO2, YGR101W]	protein_coding	Initial Gene From Selection	cellular amide metabolic process | organonitrogen compound metabolic process
+PPR1	Cluster#1	850701	[YLR014C]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | organonitrogen compound biosynthetic process
+PRS3	Cluster#1	856375	[YHL011C]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+PUF4	Cluster#1	852870	[YGL014W, YGL023]	protein_coding	Initial Gene From Selection	translation | amide biosynthetic process | cellular amide metabolic process
+PUF6	Cluster#1	852107	[YDR496C]	protein_coding	Initial Gene From Selection	ribosome | translation | amide biosynthetic process
+PUT3	Cluster#1	853854	[YKL015W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | organonitrogen compound metabolic process
+RKM1	Cluster#1	855893	[YPL208W]	protein_coding	Initial Gene From Selection	cytoplasmic translation | translation | amide biosynthetic process
+RPL11B	Cluster#1	852976	[YGR085C]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL14A	Cluster#1	853864	[YKL006W]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL19A	Cluster#1	852379	[YBR084C-A]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL22A	Cluster#1	850750	[YLR061W]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL43B	Cluster#1	853557	[YJR094W-A]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL6B	Cluster#1	851169	[YLR448W]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPL8A	Cluster#1	856352	[MAK7, YHL033C]	protein_coding	Initial Gene From Selection	cytoplasmic translation | cytosolic part | ribosome
+RPS0A	Cluster#1	853128	[NAB1, NAB1A, YGR214W, YST1]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytoplasmic translation | cytosolic part
+RPS11B	Cluster#1	852337	[YBR048W]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytoplasmic translation | cytosolic part
+RPS12	Cluster#1	854551	[YOR369C]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytoplasmic translation | cytosolic part
+RPS16A	Cluster#1	855174	[YMR143W]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytoplasmic translation | cytosolic part
+RPS1B	Cluster#1	854939	[PLC2, RP10B, YML063W]	protein_coding	Initial Gene From Selection	small ribosomal subunit | cytoplasmic translation | cytosolic part
+RSM25	Cluster#1	854715	[YIL093C, mS23]	protein_coding	Initial Gene From Selection	small ribosomal subunit | ribosome | translation
+SOL1	Cluster#1	855769	[YNR034W]	protein_coding	Initial Gene From Selection	organonitrogen compound metabolic process
+STP2	Cluster#1	856397	[YHR006W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+SWS2	Cluster#1	855643	[YNL081C, uS13m]	protein_coding	Initial Gene From Selection	small ribosomal subunit | ribosome | translation
+TPA1	Cluster#1	856775	[YER049W]	protein_coding	Initial Gene From Selection	translation | amide biosynthetic process | cellular amide metabolic process
+TRP2	Cluster#1	856824	[YER090W]	protein_coding	Initial Gene From Selection	organonitrogen compound biosynthetic process | organonitrogen compound metabolic process
+TRX2	Cluster#1	853123	[LMA1, YGR209C]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress | cellular amide metabolic process | organonitrogen compound metabolic process
+UAF30	Cluster#1	854470	[YOR295W]	protein_coding	Initial Gene From Selection	core promoter proximal region sequence-specific DNA binding
+UBA4	Cluster#1	856511	[YHR1, YHR111W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress
+VAM6	Cluster#1	851482	[CVT4, VPL18, VPL22, VPS39, YDL077C]	protein_coding	Initial Gene From Selection	positive regulation of TORC1 signaling | TORC1 signaling
+VTS1	Cluster#1	854541	[YOR359W]	protein_coding	Initial Gene From Selection	translation | amide biosynthetic process | cellular amide metabolic process
+WHI2	Cluster#1	854208	[YOR043W]	protein_coding	Initial Gene From Selection	response to salt stress
+YAP1	Cluster#1	855005	[PAR1, PDR4, SNQ3, YML007W]	protein_coding	Initial Gene From Selection	response to reactive oxygen species | cellular response to oxidative stress
+YPF1	Cluster#1	853761	[YKL100C]	protein_coding	Initial Gene From Selection	cellular amide metabolic process | organonitrogen compound metabolic process

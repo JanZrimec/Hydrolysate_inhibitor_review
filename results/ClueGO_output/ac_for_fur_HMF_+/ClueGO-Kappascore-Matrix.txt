@@ -1,0 +1,3 @@
+NAME	alcohol dehydrogenase (NADP+) activity	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+alcohol dehydrogenase (NADP+) activity	1.0	0.0
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	0.0	1.0

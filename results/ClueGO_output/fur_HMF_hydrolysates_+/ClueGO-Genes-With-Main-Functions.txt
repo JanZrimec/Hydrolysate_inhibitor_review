@@ -1,0 +1,6 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+GLR1	Cluster#1	856014	[LPG17, YPL091W]	protein_coding	Initial Gene From Selection	response to oxidative stress
+GSH1	Cluster#1	853344	[YJL101C]	protein_coding	Initial Gene From Selection	response to inorganic substance | response to oxidative stress
+MSN2	Cluster#1	855053	[YMR037C]	protein_coding	Initial Gene From Selection	response to inorganic substance | response to oxidative stress
+YAP1	Cluster#1	855005	[PAR1, PDR4, SNQ3, YML007W]	protein_coding	Initial Gene From Selection	response to inorganic substance | response to oxidative stress
+ZWF1	Cluster#1	855480	[MET19, POS10, YNL241C]	protein_coding	Initial Gene From Selection	response to inorganic substance | response to oxidative stress

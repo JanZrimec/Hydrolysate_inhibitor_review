@@ -1,0 +1,10 @@
+NAME	CAT8	ERG3	ERG4	ERG5	GAL4	GZF3	PDR1	PDR8	PUT3	RDR1	RPN4	STB5	VPS25	WAR1	YAP1	YRM1	YRR1	ZWF1
+RNA polymerase II regulatory region sequence-specific DNA binding	1	0	0	0	1	1	1	1	1	0	1	0	0	0	0	1	1	0
+RNA polymerase II transcription factor activity, sequence-specific DNA binding	1	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0
+transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	1	0	0	0	1	1	1	1	1	0	1	0	0	0	0	1	1	0
+ergosterol biosynthetic process	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cellular response to nutrient	1	0	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0	1
+sequence-specific DNA binding	1	0	0	0	1	1	1	1	1	0	1	0	0	1	1	1	1	0
+regulation of transcription from RNA polymerase II promoter in response to stress	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	1	0
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0

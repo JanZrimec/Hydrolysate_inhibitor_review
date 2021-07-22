@@ -1,0 +1,4 @@
+NAME	IMP biosynthetic process	response to inorganic substance	regulation of transcription from RNA polymerase II promoter in response to stress
+IMP biosynthetic process	1.0	-0.75	-0.8823529411764706
+response to inorganic substance	-0.75	1.0	0.75
+regulation of transcription from RNA polymerase II promoter in response to stress	-0.8823529411764706	0.75	1.0

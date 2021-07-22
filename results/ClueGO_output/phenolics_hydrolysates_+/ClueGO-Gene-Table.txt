@@ -1,0 +1,10 @@
+InitialGene	Selection	GeneType	GeneID	Symbol Name	Input Gene ID	Gene Aliases
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	851073	ADE13	ADE13	[BRA1, BRA8, YLR359W]
+false	Cluster #1: Functionally annotated IDs not passing criteria	protein_coding	851172	LEU3	LEU3	[YLR451W]
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	851272	ADE1	ADE1	[YAR015W]
+false	Cluster #1: Functionally annotated IDs not passing criteria	protein_coding	852150	PAD1	PAD1	[POF1, YDR538W]
+false	Cluster #1: Functionally annotated IDs not passing criteria	protein_coding	854841	DAL81	DAL81	[UGA35, YIR023W]
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	855005	YAP1	YAP1	[PAR1, PDR4, SNQ3, YML007W]
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	855053	MSN2	MSN2	[YMR037C]
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	855149	ADE17	ADE17	[YMR120C]
+true	Cluster #1: Functionally annotated IDs passing criteria	protein_coding	855704	CRZ1	CRZ1	[HAL8, TCN1, YNL027W]

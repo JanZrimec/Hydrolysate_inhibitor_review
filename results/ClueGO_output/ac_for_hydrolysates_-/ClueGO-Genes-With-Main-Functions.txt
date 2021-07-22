@@ -1,0 +1,172 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+AAC3	Cluster#1	852380	[ANC3, YBR085W]	protein_coding	Initial Gene From Selection	mitochondrial part | mitochondrion | organelle membrane
+ADR1	Cluster#1	851802	[YDR216W]	protein_coding	Initial Gene From Selection	regulation of cellular ketone metabolic process by regulation of transcription from RNA polymerase II promoter | regulation of cellular ketone metabolic process | positive regulation of lipid metabolic process | positive regulation of cellular catabolic process
+AKR1	Cluster#1	851857	[YDR264C]	protein_coding	Initial Gene From Selection	zinc ion binding | transition metal ion binding | cellular response to chemical stimulus
+ALG9	Cluster#1	855502	[YNL219C]	protein_coding	Initial Gene From Selection	mannosyltransferase activity | protein glycosylation | transferase activity, transferring glycosyl groups
+ANP1	Cluster#1	856675	[GEM3, MNN8, YEL036C]	protein_coding	Initial Gene From Selection	integral component of Golgi membrane | mannosyltransferase activity | protein glycosylation
+APQ12	Cluster#1	854771	[YIL040W]	protein_coding	Initial Gene From Selection	chemical homeostasis | organelle membrane | gene expression
+ARF1	Cluster#1	851335	[YDL192W]	protein_coding	Initial Gene From Selection	regulation of cellular process | cytoplasmic part
+ARP6	Cluster#1	850774	[YLR085C]	protein_coding	Initial Gene From Selection	regulation of transcription, DNA-templated | transcription, DNA-templated | RNA biosynthetic process
+ATP17	Cluster#1	851983	[YDR377W]	protein_coding	Initial Gene From Selection	proton-transporting two-sector ATPase complex | cation-transporting ATPase activity | mitochondrial membrane part
+ATP4	Cluster#1	856027	[LPF7, YPL078C]	protein_coding	Initial Gene From Selection	proton-transporting two-sector ATPase complex | cation-transporting ATPase activity | mitochondrial membrane part
+ATX1	Cluster#1	855462	[YNL259C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular response to oxidative stress | cellular ion homeostasis
+AZF1	Cluster#1	854280	[YOR113W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+BAS1	Cluster#1	853974	[YKR099W]	protein_coding	Initial Gene From Selection	transcription regulatory region sequence-specific DNA binding | RNA polymerase II transcription factor activity, sequence-specific DNA binding | sequence-specific DNA binding
+BCH1	Cluster#1	855277	[YMR237W]	protein_coding	Initial Gene From Selection	single-organism biosynthetic process | cellular macromolecule biosynthetic process | macromolecule biosynthetic process
+BUD16	Cluster#1	856683	[YEL029C]	protein_coding	Initial Gene From Selection	water-soluble vitamin metabolic process | metal ion binding | cellular biosynthetic process
+CAT8	Cluster#1	855323	[DIL1, MSP8, YMR280C]	protein_coding	Initial Gene From Selection	regulation of cellular ketone metabolic process by regulation of transcription from RNA polymerase II promoter | regulation of cellular ketone metabolic process | carbon catabolite activation of transcription from RNA polymerase II promoter
+CAX4	Cluster#1	852924	[CWH8, YGR036C]	protein_coding	Initial Gene From Selection	protein glycosylation | lipid biosynthetic process | lipid metabolic process
+CBP2	Cluster#1	856347	[YHL038C]	protein_coding	Initial Gene From Selection	mitochondrion | nucleic acid binding | gene expression
+CBP6	Cluster#1	852417	[YBR120C]	protein_coding	Initial Gene From Selection	mitochondrial respiratory chain complex III biogenesis | positive regulation of mitochondrion organization | mitochondrial translation
+CBS1	Cluster#1	851491	[YDL069C]	protein_coding	Initial Gene From Selection	mitochondrial respiratory chain complex III biogenesis | positive regulation of mitochondrion organization | mitochondrial translation
+CBS2	Cluster#1	851778	[CBP7, YDR197W]	protein_coding	Initial Gene From Selection	mitochondrial respiratory chain complex III biogenesis | positive regulation of mitochondrion organization | water-soluble vitamin metabolic process
+CCM1	Cluster#1	853053	[DMR1, RRG2, YGR150C]	protein_coding	Initial Gene From Selection	mitochondrial RNA metabolic process | mitochondrion organization | mitochondrion
+CCW12	Cluster#1	850800	[YLR110C]	protein_coding	Initial Gene From Selection	cellular response to chemical stimulus
+CHO1	Cluster#1	856748	[PSS1, YER026C]	protein_coding	Initial Gene From Selection	lipid biosynthetic process | lipid metabolic process | mitochondrial part
+CIK1	Cluster#1	855238	[YMR198W]	protein_coding	Initial Gene From Selection	regulation of cellular process | cytoplasmic part
+COQ8	Cluster#1	852758	[ABC1, YGL119W]	protein_coding	Initial Gene From Selection	cellular ketone metabolic process | mitochondrial membrane part | mitochondrial matrix
+COQ9	Cluster#1	850898	[YLR201C]	protein_coding	Initial Gene From Selection	cellular ketone metabolic process | mitochondrial part | single-organism biosynthetic process
+COS10	Cluster#1	855812	[YNR075W]	protein_coding	Initial Gene From Selection	cytoplasmic part
+COX17	Cluster#1	850651	[YLL009C]	protein_coding	Initial Gene From Selection	transition metal ion binding | mitochondrion organization | mitochondrial part
+COX18	Cluster#1	852953	[OXA2, YGR062C]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | mitochondrion organization | mitochondrial part
+CSG2	Cluster#1	852324	[CLS2, YBR036C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular ion homeostasis | lipid biosynthetic process
+CSM2	Cluster#1	854674	[YIL132C]	protein_coding	Initial Gene From Selection	nucleobase-containing compound biosynthetic process | aromatic compound biosynthetic process | heterocycle biosynthetic process
+CTH1	Cluster#1	851729	[YDR151C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular ion homeostasis | chemical homeostasis
+CTL1	Cluster#1	855218	[CTH1, YMR180C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular ion homeostasis | chemical homeostasis
+DAL81	Cluster#1	854841	[UGA35, YIR023W]	protein_coding	Initial Gene From Selection	positive regulation of cellular amino acid metabolic process | regulation of cellular ketone metabolic process | positive regulation of cellular catabolic process
+DBP7	Cluster#1	853894	[YKR024C]	protein_coding	Initial Gene From Selection	nucleic acid binding | gene expression
+DIA4	Cluster#1	856402	[YHR011W]	protein_coding	Initial Gene From Selection	tRNA aminoacylation for mitochondrial protein translation | mitochondrial RNA metabolic process | mitochondrial translation
+DIE2	Cluster#1	853142	[ALG10, YGR227W]	protein_coding	Initial Gene From Selection	protein glycosylation | transferase activity, transferring glycosyl groups | lipid metabolic process
+EAF7	Cluster#1	855586	[YNL136W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | regulation of transcription, DNA-templated
+ELP4	Cluster#1	856002	[HAP1, KTI9, TOT7, YPL101W]	protein_coding	Initial Gene From Selection	cellular response to decreased oxygen levels | carbon catabolite activation of transcription from RNA polymerase II promoter | carbon catabolite regulation of transcription from RNA polymerase II promoter
+END3	Cluster#1	855640	[YNL084C]	protein_coding	Initial Gene From Selection	metal ion binding | organelle membrane | cytoplasmic part
+ERG5	Cluster#1	855029	[CYP61, YMR015C]	protein_coding	Initial Gene From Selection	lipid biosynthetic process | transition metal ion binding | lipid metabolic process
+ETR1	Cluster#1	852314	[MRF1, MRF1', YBR026C]	protein_coding	Initial Gene From Selection	monocarboxylic acid biosynthetic process | mitochondrial translation | lipid biosynthetic process
+FAB1	Cluster#1	850574	[SVL7, YFR019W]	protein_coding	Initial Gene From Selection	lipid metabolic process | metal ion binding | organelle membrane
+FRE8	Cluster#1	850736	[YLR047C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular ion homeostasis | chemical homeostasis
+FUS2	Cluster#1	855272	[YMR232W]	protein_coding	Initial Gene From Selection	cellular response to chemical stimulus | regulation of cellular process
+GAL4	Cluster#1	855828	[GAL81, YPL248C]	protein_coding	Initial Gene From Selection	carbon catabolite activation of transcription from RNA polymerase II promoter | carbon catabolite regulation of transcription from RNA polymerase II promoter | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+GCR1	Cluster#1	856030	[LPF10, SIT3, YPL075W]	protein_coding	Initial Gene From Selection	carbon catabolite regulation of transcription from RNA polymerase II promoter | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+GCV3	Cluster#1	851254	[YAL044C]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | mitochondrion
+GLY1	Cluster#1	856665	[YEL046C]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | single-organism biosynthetic process
+GPB2	Cluster#1	851243	[KRH1, YAL056W]	protein_coding	Initial Gene From Selection	chemical homeostasis | cellular homeostasis | cellular response to chemical stimulus
+GPH1	Cluster#1	856289	[YPR160W]	protein_coding	Initial Gene From Selection	transferase activity, transferring glycosyl groups
+GSH2	Cluster#1	854108	[YOL049W]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | metal ion binding
+GZF3	Cluster#1	853334	[DEH1, NIL2, YJL110C]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | RNA polymerase II regulatory region sequence-specific DNA binding | transcription regulatory region sequence-specific DNA binding
+HDA2	Cluster#1	851889	[PLO2, YDR295C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | DNA binding
+HOM2	Cluster#1	851736	[THR2, YDR158W]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | single-organism biosynthetic process
+HPR1	Cluster#1	851716	[TRF1, YDR138W]	protein_coding	Initial Gene From Selection	positive regulation of transcription, DNA-templated | positive regulation of nucleobase-containing compound metabolic process | positive regulation of gene expression
+HRK1	Cluster#1	854441	[YOR267C]	protein_coding	Initial Gene From Selection	cellular ion homeostasis | chemical homeostasis | cellular homeostasis
+HSP12	Cluster#1	850532	[GLP1, HOR5, YFL014W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress | cellular response to chemical stimulus | cytoplasmic part
+HTL1	Cluster#1	850384	[YCR020W-B]	protein_coding	Initial Gene From Selection	transcription from RNA polymerase II promoter | regulation of transcription, DNA-templated | transcription, DNA-templated
+HTZ1	Cluster#1	854150	[HTA3, YOL012C]	protein_coding	Initial Gene From Selection	core promoter proximal region sequence-specific DNA binding | RNA polymerase II regulatory region sequence-specific DNA binding | transcription regulatory region sequence-specific DNA binding
+HUL5	Cluster#1	852736	[YGL141W]	protein_coding	Initial Gene From Selection	cellular homeostasis | regulation of cellular process
+IFM1	Cluster#1	854135	[YOL023W]	protein_coding	Initial Gene From Selection	mitochondrial translation | mitochondrion organization | mitochondrion
+ISA2	Cluster#1	856180	[YPR067W]	protein_coding	Initial Gene From Selection	water-soluble vitamin metabolic process | monocarboxylic acid biosynthetic process | mitochondrial matrix
+KAP123	Cluster#1	856846	[YER110C, YRB4]	protein_coding	Initial Gene From Selection	organelle membrane | regulation of cellular process | cytoplasmic part
+KEL2	Cluster#1	853153	[YGR238C]	protein_coding	Initial Gene From Selection	regulation of cellular process
+KSS1	Cluster#1	852931	[YGR040W]	protein_coding	Initial Gene From Selection	cellular response to chemical stimulus | regulation of transcription, DNA-templated | transcription, DNA-templated
+LAS21	Cluster#1	853384	[GPI7, YJL062W]	protein_coding	Initial Gene From Selection	lipid biosynthetic process | lipid metabolic process | single-organism biosynthetic process
+LDB17	Cluster#1	851409	[YDL146W]	protein_coding	Initial Gene From Selection	cytoplasmic part
+LEE1	Cluster#1	856053	[YPL054W]	protein_coding	Initial Gene From Selection	metal ion binding
+LEU3	Cluster#1	851172	[YLR451W]	protein_coding	Initial Gene From Selection	positive regulation of cellular amino acid metabolic process | regulation of cellular ketone metabolic process | cellular ketone metabolic process
+LIP5	Cluster#1	854371	[YOR196C]	protein_coding	Initial Gene From Selection	monocarboxylic acid biosynthetic process | lipid biosynthetic process | lipid metabolic process
+MAP1	Cluster#1	850945	[YLR244C]	protein_coding	Initial Gene From Selection	metal ion binding | regulation of gene expression | nucleic acid binding
+MED2	Cluster#1	851559	[YDL005C]	protein_coding	Initial Gene From Selection	positive regulation of transcription from RNA polymerase II promoter | positive regulation of transcription, DNA-templated | positive regulation of nucleobase-containing compound metabolic process
+MEF1	Cluster#1	850758	[YLR069C]	protein_coding	Initial Gene From Selection	mitochondrial translation | mitochondrion organization | mitochondrion
+MGM101	Cluster#1	853609	[MGM9, YJR144W]	protein_coding	Initial Gene From Selection	mitochondrial nucleoid | mitochondrial matrix | mitochondrion organization
+MGR2	Cluster#1	856006	[YPL098C]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | mitochondrion organization | mitochondrial part
+MHP1	Cluster#1	853408	[YJL042W]	protein_coding	Initial Gene From Selection	regulation of cellular process
+MNN10	Cluster#1	851832	[BED1, REC41, SLC2, YDR245W]	protein_coding	Initial Gene From Selection	integral component of Golgi membrane | mannosyltransferase activity | protein glycosylation
+MNN11	Cluster#1	853256	[YJL183W]	protein_coding	Initial Gene From Selection	integral component of Golgi membrane | mannosyltransferase activity | protein glycosylation
+MRH1	Cluster#1	851597	[YDR033W]	protein_coding	Initial Gene From Selection	mitochondrion | cytoplasmic part
+MRH4	Cluster#1	852816	[YGL064C]	protein_coding	Initial Gene From Selection	mitochondrial matrix | mitochondrial part | mitochondrion
+MSD1	Cluster#1	856000	[LPG5, YPL104W]	protein_coding	Initial Gene From Selection	tRNA aminoacylation for mitochondrial protein translation | mitochondrial RNA metabolic process | mitochondrial translation
+MSN4	Cluster#1	853803	[YKL062W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | cellular response to pH | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+MSS116	Cluster#1	851775	[YDR194C]	protein_coding	Initial Gene From Selection	mitochondrial RNA metabolic process | mitochondrial matrix | mitochondrion organization
+MSS2	Cluster#1	851451	[YDL107W]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | mitochondrial matrix | mitochondrion organization
+MSY1	Cluster#1	856007	[YPL097W]	protein_coding	Initial Gene From Selection	tRNA aminoacylation for mitochondrial protein translation | mitochondrial RNA metabolic process | mitochondrial translation
+NAS6	Cluster#1	853147	[YGR232W]	protein_coding	Initial Gene From Selection	cytoplasmic part
+NGG1	Cluster#1	851756	[ADA3, SWI7, YDR176W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | regulation of transcription, DNA-templated
+NNF2	Cluster#1	852980	[YGR089W]	protein_coding	Initial Gene From Selection	cytoplasmic part
+NUP53	Cluster#1	855184	[YMR153W]	protein_coding	Initial Gene From Selection	positive regulation of transcription, DNA-templated | positive regulation of nucleobase-containing compound metabolic process | positive regulation of gene expression
+OCH1	Cluster#1	852845	[LDB12, NGD29, YGL038C]	protein_coding	Initial Gene From Selection	integral component of Golgi membrane | mannosyltransferase activity | protein glycosylation
+ORM1	Cluster#1	852926	[YGR038W]	protein_coding	Initial Gene From Selection	SPOTS complex | regulation of lipid metabolic process | lipid biosynthetic process
+PAD1	Cluster#1	852150	[POF1, YDR538W]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress | cellular response to chemical stimulus | carboxylic acid metabolic process
+PBI2	Cluster#1	855717	[LMA1, YNL015W]	protein_coding	Initial Gene From Selection	regulation of metabolic process | regulation of cellular process | cytoplasmic part
+PDR1	Cluster#1	852871	[AMY1, ANT1, BOR2, CYH3, NRA2, SMR2, TIL1, TPE1, TPE3, YGL013C]	protein_coding	Initial Gene From Selection	carbon catabolite activation of transcription from RNA polymerase II promoter | carbon catabolite regulation of transcription from RNA polymerase II promoter | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+PDR17	Cluster#1	855457	[ISS1, SFH4, YNL264C]	protein_coding	Initial Gene From Selection	positive regulation of lipid metabolic process | regulation of lipid metabolic process | lipid biosynthetic process
+PDR8	Cluster#1	850971	[YLR266C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+PDX3	Cluster#1	852323	[YBR035C]	protein_coding	Initial Gene From Selection	water-soluble vitamin metabolic process | mitochondrial part | single-organism biosynthetic process
+PEP5	Cluster#1	855271	[END1, VAM1, VPL9, VPS11, VPT11, YMR231W]	protein_coding	Initial Gene From Selection	zinc ion binding | transition metal ion binding | metal ion binding
+PLB3	Cluster#1	854151	[YOL011W]	protein_coding	Initial Gene From Selection	lipid metabolic process
+PMR1	Cluster#1	852709	[BSD1, LDB1, SSC1, YGL167C]	protein_coding	Initial Gene From Selection	mitochondrial nucleoid | cation-transporting ATPase activity | cellular metal ion homeostasis
+POR1	Cluster#1	855669	[OMP2, YNL055C]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | cellular homeostasis | mitochondrion organization
+PRO1	Cluster#1	851894	[YDR300C]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | single-organism biosynthetic process
+PUT3	Cluster#1	853854	[YKL015W]	protein_coding	Initial Gene From Selection	positive regulation of cellular amino acid metabolic process | regulation of cellular ketone metabolic process | positive regulation of cellular catabolic process
+QRI5	Cluster#1	850901	[COX24, YLR204W, mS38]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | mitochondrial part | mitochondrion
+RCY1	Cluster#1	853226	[YJL204C]	protein_coding	Initial Gene From Selection	cytoplasmic part
+RDR1	Cluster#1	854562	[YOR380W]	protein_coding	Initial Gene From Selection	RNA polymerase II transcription factor activity, sequence-specific DNA binding | zinc ion binding | transition metal ion binding
+REX4	Cluster#1	854075	[YOL080C]	protein_coding	Initial Gene From Selection	nucleic acid binding | gene expression
+RIM101	Cluster#1	856358	[RIM1, YHL027W]	protein_coding	Initial Gene From Selection	cellular response to decreased oxygen levels | cellular response to pH | positive regulation of mitochondrion organization
+RIT1	Cluster#1	855326	[YMR283C]	protein_coding	Initial Gene From Selection	transferase activity, transferring glycosyl groups | gene expression
+RML2	Cluster#1	856660	[YEL050C, uL2m]	protein_coding	Initial Gene From Selection	mitochondrial translation | mitochondrial matrix | mitochondrion organization
+RNR1	Cluster#1	856801	[CRT7, RIR1, SDS12, YER070W]	protein_coding	Initial Gene From Selection	single-organism biosynthetic process | nucleobase-containing compound biosynthetic process | aromatic compound biosynthetic process
+RPL1B	Cluster#1	852742	[SSM2, YGL135W]	protein_coding	Initial Gene From Selection	nucleic acid binding | cellular nitrogen compound biosynthetic process | cellular macromolecule biosynthetic process
+RPL20A	Cluster#1	855283	[RPL18A2, YMR242C]	protein-coding	Initial Gene From Selection	cellular nitrogen compound biosynthetic process | cellular macromolecule biosynthetic process | macromolecule biosynthetic process
+RPL27A	Cluster#1	856401	[RPL27, YHR010W]	protein_coding	Initial Gene From Selection	cellular nitrogen compound biosynthetic process | cellular macromolecule biosynthetic process | macromolecule biosynthetic process
+RPN4	Cluster#1	851542	[SON1, UFD5, YDL020C]	protein_coding	Initial Gene From Selection	positive regulation of cellular catabolic process | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus | regulation of transcription from RNA polymerase II promoter in response to stress
+RPP2A	Cluster#1	854118	[RPL44, RPLA2, YOL039W]	protein_coding	Initial Gene From Selection	positive regulation of macromolecule metabolic process | positive regulation of cellular process | nucleic acid binding
+RPS27B	Cluster#1	856415	[YHR021C]	protein_coding	Initial Gene From Selection	metal ion binding | cellular nitrogen compound biosynthetic process | cellular macromolecule biosynthetic process
+RRG7	Cluster#1	854482	[YOR305W]	protein_coding	Initial Gene From Selection	mitochondrion | cytoplasmic part
+SAC1	Cluster#1	853668	[RSD1, YKL212W]	protein_coding	Initial Gene From Selection	SPOTS complex | integral component of Golgi membrane | organelle subcompartment
+SCO1	Cluster#1	852325	[PET161, YBR037C]	protein_coding	Initial Gene From Selection	cellular metal ion homeostasis | cellular ion homeostasis | chemical homeostasis
+SCS7	Cluster#1	855315	[FAH1, YMR272C]	protein_coding	Initial Gene From Selection	monocarboxylic acid biosynthetic process | lipid biosynthetic process | transition metal ion binding
+SDH4	Cluster#1	851758	[ACN18, YDR178W]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | organic acid metabolic process | mitochondrial part
+SEC66	Cluster#1	852469	[HSS1, KAR7, SEC71, YBR171W]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+SEY1	Cluster#1	854336	[YOR165W]	protein_coding	Initial Gene From Selection	organelle subcompartment | cytoplasmic part
+SHC1	Cluster#1	856832	[YER096W]	protein_coding	Initial Gene From Selection	single-organism biosynthetic process | cellular macromolecule biosynthetic process | macromolecule biosynthetic process
+SHU2	Cluster#1	851650	[YDR078C]	protein_coding	Initial Gene From Selection	nucleobase-containing compound biosynthetic process | aromatic compound biosynthetic process | heterocycle biosynthetic process
+SIC1	Cluster#1	850768	[BYC1, SDB25, YLR079W]	protein_coding	Initial Gene From Selection	regulation of metabolic process | regulation of cellular process
+SIN4	Cluster#1	855485	[BEL2, GAL22, MED16, RYE1, SDI3, SSF5, SSN4, SSX3, TSF3, YNL236W]	protein_coding	Initial Gene From Selection	positive regulation of transcription from RNA polymerase II promoter | positive regulation of transcription, DNA-templated | positive regulation of nucleobase-containing compound metabolic process
+SLM3	Cluster#1	851529	[MTO2, MTU1, YDL033C]	protein_coding	Initial Gene From Selection	mitochondrial RNA metabolic process | mitochondrial matrix | mitochondrion organization
+SNA3	Cluster#1	853290	[YJL151C]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+SNT2	Cluster#1	852746	[YGL131C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | cellular response to oxidative stress
+SPE4	Cluster#1	850838	[YLR146C]	protein_coding	Initial Gene From Selection	water-soluble vitamin metabolic process | monocarboxylic acid biosynthetic process | carboxylic acid metabolic process
+SPO22	Cluster#1	854737	[YIL073C, ZIP4]	protein_coding	Initial Gene From Selection	positive regulation of macromolecule metabolic process | positive regulation of cellular process | regulation of metabolic process
+STB5	Cluster#1	856583	[YHR178W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | cellular response to oxidative stress
+SUT1	Cluster#1	852714	[YGL162W]	protein_coding	Initial Gene From Selection	response to extracellular stimulus | RNA polymerase II transcription factor activity, sequence-specific DNA binding | zinc ion binding
+TFB5	Cluster#1	851652	[YDR079C-A]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | regulation of transcription, DNA-templated
+THI20	Cluster#1	854099	[YOL055C]	protein_coding	Initial Gene From Selection	water-soluble vitamin metabolic process | single-organism biosynthetic process | aromatic compound biosynthetic process
+TIF3	Cluster#1	856292	[RBL3, STM1, YPR163C]	protein_coding	Initial Gene From Selection	sequence-specific DNA binding | DNA binding | regulation of gene expression
+TOP1	Cluster#1	854156	[MAK1, MAK17, YOL006C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | DNA binding
+TPO3	Cluster#1	856279	[YPR156C]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+TPS1	Cluster#1	852423	[BYP1, CIF1, FDP1, GGS1, GLC6, TSS1, YBR126C]	protein_coding	Initial Gene From Selection	cellular response to oxidative stress | transferase activity, transferring glycosyl groups | cellular response to extracellular stimulus
+TRS33	Cluster#1	854282	[YOR115C]	protein_coding	Initial Gene From Selection	organelle subcompartment | cytoplasmic part
+TSC3	Cluster#1	852350	[YBR058C-A]	protein_coding	Initial Gene From Selection	SPOTS complex | positive regulation of lipid metabolic process | regulation of lipid metabolic process
+TUP1	Cluster#1	850445	[AAR1, AER2, AMM1, CRT4, CYC9, FLK1, ROX4, SFL2, UMR7, YCR084C]	protein_coding	Initial Gene From Selection	regulation of cellular ketone metabolic process by regulation of transcription from RNA polymerase II promoter | regulation of cellular ketone metabolic process | carbon catabolite regulation of transcription from RNA polymerase II promoter
+UPC2	Cluster#1	851799	[MOX4, YDR213W]	protein_coding	Initial Gene From Selection	cellular response to decreased oxygen levels | positive regulation of lipid metabolic process | regulation of lipid metabolic process
+VMA22	Cluster#1	856457	[CEV1, VPH6, YHR060W]	protein_coding	Initial Gene From Selection	cellular ion homeostasis | chemical homeostasis | cellular homeostasis
+VMA3	Cluster#1	856686	[CLS7, CUP5, GEF2, YEL027W]	protein_coding	Initial Gene From Selection	vacuolar proton-transporting V-type ATPase complex | proton-transporting two-sector ATPase complex | cation-transporting ATPase activity
+VMA5	Cluster#1	853782	[CSL5, VAT3, YKL080W]	protein_coding	Initial Gene From Selection	vacuolar proton-transporting V-type ATPase complex | proton-transporting two-sector ATPase complex | cation-transporting ATPase activity
+VMA8	Cluster#1	856659	[YEL051W]	protein_coding	Initial Gene From Selection	vacuolar proton-transporting V-type ATPase complex | proton-transporting two-sector ATPase complex | cation-transporting ATPase activity
+VOA1	Cluster#1	852998	[YGR106C]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+VPS1	Cluster#1	853870	[GRD1, LAM1, SPO15, VPL1, VPT26, YKR001C]	protein_coding	Initial Gene From Selection	organelle subcompartment | mitochondrion organization | mitochondrial part
+VPS16	Cluster#1	856062	[CVT15, SVL6, VAM9, VPT16, YPL045W]	protein_coding	Initial Gene From Selection	organelle membrane | regulation of cellular process | cytoplasmic part
+VPS28	Cluster#1	856040	[VPL13, VPT28, YPL065W]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+VPS73	Cluster#1	852774	[YGL104C]	protein_coding	Initial Gene From Selection	mitochondrial part | mitochondrion | organelle membrane
+VRP1	Cluster#1	851051	[END5, MDP2, YLR337C, YLR337W]	protein_coding	Initial Gene From Selection	positive regulation of cellular process | regulation of cellular process | cytoplasmic part
+WAR1	Cluster#1	854899	[YML076C]	protein_coding	Initial Gene From Selection	cellular response to pH | RNA polymerase II transcription factor activity, sequence-specific DNA binding | sequence-specific DNA binding
+YAK1	Cluster#1	853300	[YJL141C]	protein_coding	Initial Gene From Selection	positive regulation of transcription, DNA-templated | positive regulation of nucleobase-containing compound metabolic process | positive regulation of gene expression
+YAP1	Cluster#1	855005	[PAR1, PDR4, SNQ3, YML007W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | cellular response to oxidative stress
+YAR029W	Cluster#1	851281	[]	protein_coding	Initial Gene From Selection	cytoplasmic part
+YGL140C	Cluster#1	852737	[]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+YGP1	Cluster#1	855562	[YNL160W]	protein_coding	Initial Gene From Selection	sequence-specific DNA binding | positive regulation of transcription from RNA polymerase II promoter | positive regulation of transcription, DNA-templated
+YHM2	Cluster#1	855282	[YMR241W]	protein_coding	Initial Gene From Selection	mitochondrial nucleoid | mitochondrial matrix | mitochondrion organization
+YIL067C	Cluster#1	854743	[]	protein_coding	Initial Gene From Selection	organelle membrane | cytoplasmic part
+YJR015W	Cluster#1	853472	[]	protein_coding	Initial Gene From Selection	cytoplasmic part
+YME1	Cluster#1	856135	[OSD1, YPR024W, YTA11]	protein_coding	Initial Gene From Selection	mitochondrial membrane part | mitochondrion organization | mitochondrial part
+YMR084W	Cluster#1	855108	[]	protein_coding	Initial Gene From Selection	carboxylic acid metabolic process | organic acid metabolic process | nucleobase-containing compound biosynthetic process
+YOL057W	Cluster#1	854097	[]	protein_coding	Initial Gene From Selection	metal ion binding
+YRM1	Cluster#1	854343	[YOR172W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+YRR1	Cluster#1	854333	[PDR2, YOR162C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding

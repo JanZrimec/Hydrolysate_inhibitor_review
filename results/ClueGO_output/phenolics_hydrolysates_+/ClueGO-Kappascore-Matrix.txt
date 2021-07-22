@@ -1,0 +1,3 @@
+NAME	IMP biosynthetic process	regulation of transcription from RNA polymerase II promoter in response to stress
+IMP biosynthetic process	1.0	-1.0
+regulation of transcription from RNA polymerase II promoter in response to stress	-1.0	1.0

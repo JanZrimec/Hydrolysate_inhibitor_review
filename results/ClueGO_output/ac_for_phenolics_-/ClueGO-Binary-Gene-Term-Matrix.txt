@@ -1,0 +1,13 @@
+NAME	AFG3	CAT8	END3	ERG5	GAL4	GZF3	HOF1	HTZ1	PDR1	PDR8	PUT3	RDR1	RIM101	RPN4	SCS7	STB5	VPS1	WAR1	YAP1	YRM1	YRR1
+RNA polymerase II regulatory region sequence-specific DNA binding	0	1	0	0	1	1	0	1	1	1	1	0	0	1	0	0	0	0	0	1	1
+RNA polymerase II transcription factor activity, sequence-specific DNA binding	0	1	0	0	1	1	0	0	1	1	1	1	1	1	0	1	0	1	0	1	1
+transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	0	1	0	0	1	0	0	0	1	1	1	0	1	1	0	0	0	0	0	1	1
+transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	0	1	0	0	1	1	0	0	1	1	1	0	0	1	0	0	0	0	0	1	1
+zinc ion binding	1	1	0	0	1	1	0	0	1	1	1	1	0	0	0	1	0	1	0	1	1
+cortical actin cytoskeleton	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+cellular response to nutrient	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+sequence-specific DNA binding	0	1	0	0	1	1	0	1	1	1	1	0	0	1	0	0	0	1	1	1	1
+regulation of transcription from RNA polymerase II promoter in response to stress	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	1
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1
+transition metal ion binding	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	0	1	0	1	1
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0

@@ -1,0 +1,68 @@
+ClueGO Network ID: ClueGO_output
+ClueGO Network SUID: 20958
+
+### All results were created with ClueGO v2.5.7 ###
+Organism analyzed: Saccharomyces cerevisiae S288c [559292, 4932]
+Identifier types used: [SymbolID]
+Evidence codes used: [All]
+#Genes in GO_MolecularFunction-GOA_17.11.2016_10h53 : 5830
+#Genes in GO_CellularComponent-GOA_17.11.2016_10h53 : 5612
+#Genes in GO_BiologicalProcess-GOA_17.11.2016_10h53 : 5831
+
+#All unique genes in selected ontologies: 5837 (reference set for hypergeometric test)
+
+#Genes from Cluster#1: unique uploaded ids 14 -> corresponding genes 14, with 0 (0.0%) missing  -> All genes were recognized by ClueGO.
+#Genes with functional annotations in all selected Ontologies from Cluster#1: 14 (100.0%)
+
+#Genes from all Clusters associated to 6 representative Terms and Pathways (after applying general selection criteria): 8 (57.14%)
+#Genes from all Clusters associated to 2 representative Terms and Pathways (after fusion selection criteria): 5 (35.71%)
+#Genes from all Clusters associated to 2 representative Terms and Pathways (after p-value significance selection criteria): 5 (35.71%)
+
+KappaScore Grouping:
+Iteration: 0 with 2 groups
+Final KappaScore groups  = 2
+# Terms not grouped  = 0
+
+# Merge redundant groups with >50.0% overlap
+Final group size after merging: 2
+
+#GO All Terms Specific for Cluster #1: 2
+#GO Terms: 2
+#GO Term Connections: 0
+
+Ontology used:
+GO_BiologicalProcess-GOA_17.11.2016_10h53
+GO_CellularComponent-GOA_17.11.2016_10h53
+GO_MolecularFunction-GOA_17.11.2016_10h53
+
+Evidence codes used:
+All
+
+Identifiers used:
+SymbolID
+
+
+List of missing Genes:
+Cluster #1
+
+
+
+
+Statistical Test Used = Enrichment/Depletion (Two-sided hypergeometric test)
+Use pvalue cutoff = true
+pvalue cutoff = 0.05
+Correction Method Used = Benjamini-Hochberg
+Min GO Level = 3
+Max GO Level = 8
+Cluster #1
+Sample File Name = File selection: 
+Number of Genes = 3
+Min Percentage = 4.0
+
+GO Fusion = true
+GO Group = true
+Kappa Score Threshold = 0.4
+Over View Term = SmallestPValue
+Group By Kappa Statistics = true
+Initial Group Size = 1
+Sharing Group Percentage = 50.0

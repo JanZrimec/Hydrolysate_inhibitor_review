@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="670px"
+     height="475px"
+     viewBox="0 0 670 475"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Monday, March 22, 2021 11:37:27 AM CET</desc>
+<g stroke-linejoin="miter" stroke-dashoffset="0" stroke-dasharray="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="square">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0 0 L 670 0 L 670 475 L 0 475 L 0 0 z"/>
+</g> <!-- drawing style -->
+<g transform="matrix(2.375, 0, 0, 2.375, 335, 237.5)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#c0c0c0">
+  <path d="M 37 60.5 C 37 80.93453574373935 20.434535743739346 97.5 0 97.5 C -20.434535743739353 97.5 -37 80.93453574373935 -37 60.5 C -37 40.06546425626065 -20.434535743739353 23.5 0 23.5 C 20.434535743739346 23.5 37 40.06546425626065 37 60.5 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 335, 237.5)">
+<g fill-opacity="0.7843137383460999" fill-rule="nonzero" stroke="none" fill="#1e00c3">
+  <path d="M 37 60.5 C 37 80.93453574373935 20.434535743739346 97.5 0 97.5 C -20.434535743739353 97.5 -37 80.93453574373935 -37 60.5 C -37 40.06546425626065 -20.434535743739353 23.5 0 23.5 C 20.434535743739346 23.5 37 40.06546425626065 37 60.5 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 124.7174072265625, 516.1728515625)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#1e00c3" font-size="20" x="0" y="0">IMP biosynthetic </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 232.0562744140625, 572.115234375)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#1e00c3" font-size="20" x="0" y="0">process </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 335, 237.5)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#c0c0c0">
+  <path d="M 37 -60.5 C 37 -40.065464256260654 20.434535743739346 -23.5 0 -23.5 C -20.434535743739353 -23.5 -37 -40.065464256260654 -37 -60.5 C -37 -80.93453574373936 -20.434535743739353 -97.5 0 -97.5 C 20.434535743739346 -97.5 37 -80.93453574373936 37 -60.5 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 335, 237.5)">
+<g fill-opacity="0.7843137383460999" fill-rule="nonzero" stroke="none" fill="#962db4">
+  <path d="M 37 -60.5 C 37 -40.065464256260654 20.434535743739346 -23.5 0 -23.5 C -20.434535743739353 -23.5 -37 -40.065464256260654 -37 -60.5 C -37 -80.93453574373936 -20.434535743739353 -97.5 0 -97.5 C 20.434535743739346 -97.5 37 -80.93453574373936 37 -60.5 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 168.5528564453125, 228.7978515625)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#962db4" font-size="20" x="0" y="0">regulation of </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 102.0806884765625, 284.740234375)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#962db4" font-size="20" x="0" y="0">transcription from </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 102.115478515625, 340.6826171875)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#962db4" font-size="20" x="0" y="0">RNA polymerase II </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 181.78466796875, 396.625)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#962db4" font-size="20" x="0" y="0">promoter in </text>
+</g> <!-- transform -->
+<g transform="matrix(2.375, 0, 0, 2.375, 100.1092529296875, 452.5673828125)">
+<text fill-opacity="0.9019607901573181" font-style="normal" font-family="Helvetica" font-weight="bold" stroke="none" fill="#962db4" font-size="20" x="0" y="0">response to stress </text>
+</g> <!-- transform -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

@@ -1,0 +1,74 @@
+ClueGO Network ID: ClueGO_output
+ClueGO Network SUID: 20728
+
+### All results were created with ClueGO v2.5.7 ###
+Organism analyzed: Saccharomyces cerevisiae S288c [559292, 4932]
+Identifier types used: [SymbolID]
+Evidence codes used: [All]
+#Genes in GO_MolecularFunction-GOA_17.11.2016_10h53 : 5830
+#Genes in GO_CellularComponent-GOA_17.11.2016_10h53 : 5612
+#Genes in GO_BiologicalProcess-GOA_17.11.2016_10h53 : 5831
+
+#All unique genes in selected ontologies: 5837 (reference set for hypergeometric test)
+
+#Genes from Cluster#1: unique uploaded ids 28 -> corresponding genes 25, with 3 (10.71%) missing  -> 25 recognized by ClueGO.
+ -> To improve the % of found genes, verify gene identifiers, download new available ClueGO conversion files or add/request additional files.
+
+#Genes with functional annotations in all selected Ontologies from Cluster#1: 25 (100.0%)
+
+#Genes from all Clusters associated to 44 representative Terms and Pathways (after applying general selection criteria): 19 (76.0%)
+#Genes from all Clusters associated to 9 representative Terms and Pathways (after fusion selection criteria): 18 (72.0%)
+#Genes from all Clusters associated to 9 representative Terms and Pathways (after p-value significance selection criteria): 18 (72.0%)
+
+KappaScore Grouping:
+Iteration: 0 with 4 groups
+Iteration: 1 with 3 groups
+Final KappaScore groups  = 3
+# Terms not grouped  = 0
+
+# Merge redundant groups with >50.0% overlap
+Final group size after merging: 3
+
+#GO All Terms Specific for Cluster #1: 9
+#GO Terms: 9
+#GO Term Connections: 6
+
+Ontology used:
+GO_BiologicalProcess-GOA_17.11.2016_10h53
+GO_CellularComponent-GOA_17.11.2016_10h53
+GO_MolecularFunction-GOA_17.11.2016_10h53
+
+Evidence codes used:
+All
+
+Identifiers used:
+SymbolID
+
+
+List of missing Genes:
+Cluster #1
+Gene IDs not found (no annotation or wrong ids) in Cluster#1:
+BUD28
+VFH1
+VPS61
+
+
+
+Statistical Test Used = Enrichment/Depletion (Two-sided hypergeometric test)
+Use pvalue cutoff = true
+pvalue cutoff = 0.05
+Correction Method Used = Benjamini-Hochberg
+Min GO Level = 3
+Max GO Level = 8
+Cluster #1
+Sample File Name = File selection: 
+Number of Genes = 3
+Min Percentage = 4.0
+
+GO Fusion = true
+GO Group = true
+Kappa Score Threshold = 0.4
+Over View Term = SmallestPValue
+Group By Kappa Statistics = true
+Initial Group Size = 1
+Sharing Group Percentage = 50.0

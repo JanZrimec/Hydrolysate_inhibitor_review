@@ -1,0 +1,86 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+ARL1	Cluster#1	852462	[DLP2, YBR164C]	protein_coding	Initial Gene From Selection	protein localization to Golgi apparatus | trans-Golgi network | intra-Golgi vesicle-mediated transport
+ARP6	Cluster#1	850774	[YLR085C]	protein_coding	Initial Gene From Selection	Swr1 complex | histone exchange | SWI/SNF superfamily-type complex
+BEM1	Cluster#1	852499	[SRO1, YBR200W]	protein_coding	Initial Gene From Selection	cellular response to chemical stimulus
+BEM2	Cluster#1	856899	[IPL2, SUP9, TSL1, YER155C]	protein_coding	Initial Gene From Selection	negative regulation of intracellular signal transduction | positive regulation of GTPase activity | regulation of cell communication
+BIK1	Cluster#1	850328	[ARM5, PAC14, YCL029C]	protein_coding	Initial Gene From Selection	nuclear migration along microtubule | protein homodimerization activity | microtubule binding
+BSD2	Cluster#1	852593	[YBR290W]	protein_coding	Initial Gene From Selection	fungal-type vacuole membrane | vacuolar transport | protein targeting
+CAT8	Cluster#1	855323	[DIL1, MSP8, YMR280C]	protein_coding	Initial Gene From Selection	carbon catabolite activation of transcription | carbon catabolite regulation of transcription from RNA polymerase II promoter | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+CDC50	Cluster#1	850456	[YCR094W]	protein_coding	Initial Gene From Selection	trans-Golgi network | late endosome | organophosphate ester transport
+CHO1	Cluster#1	856748	[PSS1, YER026C]	protein_coding	Initial Gene From Selection	lipid biosynthetic process | bounding membrane of organelle
+CIK1	Cluster#1	855238	[YMR198W]	protein_coding	Initial Gene From Selection	nuclear migration along microtubule | protein heterodimerization activity | microtubule binding
+COG5	Cluster#1	855676	[API4, COD4, YNL051W]	protein_coding	Initial Gene From Selection	Golgi transport complex | intra-Golgi vesicle-mediated transport | CVT pathway
+COG7	Cluster#1	852879	[COD5, YGL005C]	protein_coding	Initial Gene From Selection	Golgi transport complex | intra-Golgi vesicle-mediated transport | CVT pathway
+COG8	Cluster#1	854904	[DOR1, YML071C]	protein_coding	Initial Gene From Selection	Golgi transport complex | intra-Golgi vesicle-mediated transport | CVT pathway
+ELM1	Cluster#1	853818	[LDB9, YKL048C]	protein_coding	Initial Gene From Selection	mitotic cytokinesis | monosaccharide metabolic process | single-organism carbohydrate metabolic process
+END3	Cluster#1	855640	[YNL084C]	protein_coding	Initial Gene From Selection	mitotic cytokinesis | cytoskeletal protein binding | endocytosis
+ERG2	Cluster#1	855242	[END11, YMR202W]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | lipid biosynthetic process
+ERG24	Cluster#1	855441	[YNL280C]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | integral component of endoplasmic reticulum membrane | lipid biosynthetic process
+ERG3	Cluster#1	850745	[PSO6, SYR1, YLR056W]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | iron ion binding | lipid biosynthetic process
+ERG4	Cluster#1	852872	[YGL012W]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | integral component of endoplasmic reticulum membrane | lipid biosynthetic process
+ERG5	Cluster#1	855029	[CYP61, YMR015C]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | iron ion binding | lipid biosynthetic process
+ERG6	Cluster#1	855003	[ISE1, LIS1, SED6, VID1, YML008C]	protein_coding	Initial Gene From Selection	ergosterol biosynthetic process | lipid biosynthetic process
+ERV14	Cluster#1	852826	[YGL054C]	protein_coding	Initial Gene From Selection	mitotic cytokinesis | regulation of cell communication | Golgi membrane
+GAL4	Cluster#1	855828	[GAL81, YPL248C]	protein_coding	Initial Gene From Selection	carbon catabolite activation of transcription | carbon catabolite regulation of transcription from RNA polymerase II promoter | positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+GAS1	Cluster#1	855355	[CWH52, GGP1, YMR307W]	protein_coding	Initial Gene From Selection	cellular glucan metabolic process | cellular carbohydrate metabolic process | single-organism carbohydrate metabolic process
+GCN2	Cluster#1	851877	[AAS1, AAS102, NDR2, YDR283C]	protein_coding	Initial Gene From Selection	cellular response to pH | protein homodimerization activity | response to reactive oxygen species
+GET2	Cluster#1	856817	[HUR2, RMD7, YER083C]	protein_coding	Initial Gene From Selection	establishment of protein localization to membrane | Golgi membrane | Golgi vesicle transport
+GPH1	Cluster#1	856289	[YPR160W]	protein_coding	Initial Gene From Selection	cellular glucan metabolic process | cellular carbohydrate metabolic process | single-organism carbohydrate metabolic process
+GYP1	Cluster#1	854236	[YOR070C, YOR29-21]	protein_coding	Initial Gene From Selection	Rab GTPase binding | organelle subcompartment | positive regulation of GTPase activity
+GZF3	Cluster#1	853334	[DEH1, NIL2, YJL110C]	protein_coding	Initial Gene From Selection	maintenance of protein location in cell | cellular response to nutrient | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding
+HTZ1	Cluster#1	854150	[HTA3, YOL012C]	protein_coding	Initial Gene From Selection	protein heterodimerization activity | protein dimerization activity | chromatin remodeling
+IRS4	Cluster#1	853889	[YKR019C]	protein_coding	Initial Gene From Selection	CVT pathway | cellular response to nutrient levels | vacuolar transport
+KRE6	Cluster#1	856287	[CWH48, YPR159W]	protein_coding	Initial Gene From Selection	cellular glucan metabolic process | integral component of endoplasmic reticulum membrane | Golgi membrane
+LDB19	Cluster#1	854500	[ART1, YOR322C]	protein_coding	Initial Gene From Selection	endocytosis | Golgi apparatus | vesicle-mediated transport
+MAP1	Cluster#1	850945	[YLR244C]	protein_coding	Initial Gene From Selection	negative regulation of gene expression | negative regulation of macromolecule metabolic process
+NBP2	Cluster#1	851740	[YDR162C]	protein_coding	Initial Gene From Selection	negative regulation of intracellular signal transduction | regulation of cellular response to stress | cellular response to abiotic stimulus
+NGG1	Cluster#1	851756	[ADA3, SWI7, YDR176W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter | transcription from RNA polymerase II promoter | regulation of transcription, DNA-templated
+PDR1	Cluster#1	852871	[AMY1, ANT1, BOR2, CYH3, NRA2, SMR2, TIL1, TPE1, TPE3, YGL013C]	protein_coding	Initial Gene From Selection	ATP transport | carbon catabolite activation of transcription | carbon catabolite regulation of transcription from RNA polymerase II promoter
+PDR8	Cluster#1	850971	[YLR266C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding
+POP2	Cluster#1	855788	[CAF1, YNR052C]	protein_coding	Initial Gene From Selection	positive regulation of transcription from RNA polymerase II promoter | positive regulation of nucleobase-containing compound metabolic process | positive regulation of gene expression
+POS5	Cluster#1	855913	[YPL188W]	protein_coding	Initial Gene From Selection	NADP metabolic process | response to oxidative stress | cellular response to chemical stimulus
+PTC3	Cluster#1	852224	[YBL056W]	protein_coding	Initial Gene From Selection	negative regulation of intracellular signal transduction | regulation of cellular response to stress | cellular response to abiotic stimulus
+PUT3	Cluster#1	853854	[YKL015W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+RAD57	Cluster#1	851567	[YDR004W]	protein_coding	Initial Gene From Selection	protein heterodimerization activity | protein dimerization activity | double-stranded DNA binding
+RAV1	Cluster#1	853490	[SOI3, YJR033C]	protein_coding	Initial Gene From Selection	regulation of cellular pH | cytosolic transport | endosomal transport
+RDR1	Cluster#1	854562	[YOR380W]	protein_coding	Initial Gene From Selection	RNA polymerase II transcription factor activity, sequence-specific DNA binding | zinc ion binding | transition metal ion binding
+REG1	Cluster#1	851592	[HEX2, PZF240, SPP43, SRN1, YDR028C]	protein_coding	Initial Gene From Selection	cellular glucan metabolic process | cellular response to nutrient levels | negative regulation of transcription from RNA polymerase II promoter
+RIC1	Cluster#1	850728	[YLR039C]	protein_coding	Initial Gene From Selection	Rab GTPase binding | retrograde transport, endosome to Golgi | cytosolic transport
+RIM1	Cluster#1	850395	[YCR028C-A]	protein_coding	Initial Gene From Selection	positive regulation of nucleobase-containing compound metabolic process | positive regulation of macromolecule biosynthetic process | positive regulation of cellular biosynthetic process
+RIM101	Cluster#1	856358	[RIM1, YHL027W]	protein_coding	Initial Gene From Selection	cellular response to pH | mitotic cytokinesis | cellular response to abiotic stimulus
+RPA12	Cluster#1	853526	[RRN4, YJR063W]	protein_coding	Initial Gene From Selection	zinc ion binding | transition metal ion binding | transcription, DNA-templated
+RPE1	Cluster#1	853322	[EPI1, POS18, YJL121C]	protein_coding	Initial Gene From Selection	NADP metabolic process | monosaccharide metabolic process | cellular carbohydrate metabolic process
+RPN4	Cluster#1	851542	[SON1, UFD5, YDL020C]	protein_coding	Initial Gene From Selection	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus | regulation of transcription from RNA polymerase II promoter in response to stress | regulation of cellular response to stress
+SAC1	Cluster#1	853668	[RSD1, YKL212W]	protein_coding	Initial Gene From Selection	integral component of endoplasmic reticulum membrane | organelle subcompartment | Golgi membrane
+SBH2	Cluster#1	856740	[SEB2, YER019C-A]	protein_coding	Initial Gene From Selection	positive regulation of GTPase activity | establishment of protein localization to membrane | protein targeting
+SCS7	Cluster#1	855315	[FAH1, YMR272C]	protein_coding	Initial Gene From Selection	iron ion binding | lipid biosynthetic process | transition metal ion binding
+SHE4	Cluster#1	854200	[DIM1, YOR035C]	protein_coding	Initial Gene From Selection	cytoskeletal protein binding
+SNF6	Cluster#1	856360	[YHL025W]	protein_coding	Initial Gene From Selection	SWI/SNF superfamily-type complex | chromatin remodeling | cellular carbohydrate metabolic process
+SPT4	Cluster#1	852955	[YGR063C]	protein_coding	Initial Gene From Selection	regulation of cellular response to stress | nuclear chromatin | regulation of response to stimulus
+SSN8	Cluster#1	855706	[CNC1, GIG3, NUT9, RYE2, SRB11, UME3, YNL025C]	protein_coding	Initial Gene From Selection	carbon catabolite activation of transcription | cellular response to nutrient | RNA polymerase II regulatory region sequence-specific DNA binding
+STB5	Cluster#1	856583	[YHR178W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | response to oxidative stress
+STP22	Cluster#1	850349	[AGS1, VPL15, VPS23, YCL008C]	protein_coding	Initial Gene From Selection	ESCRT complex | ATP transport | ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+SWC3	Cluster#1	851222	[SWC1, YAL011W]	protein_coding	Initial Gene From Selection	Swr1 complex | histone exchange | SWI/SNF superfamily-type complex
+SWC5	Cluster#1	852532	[AOR1, YBR231C]	protein_coding	Initial Gene From Selection	Swr1 complex | histone exchange | SWI/SNF superfamily-type complex
+TKL1	Cluster#1	856188	[YPR074C]	protein_coding	Initial Gene From Selection	NADP metabolic process
+TLG2	Cluster#1	854142	[YOL018C]	protein_coding	Initial Gene From Selection	trans-Golgi network | CVT pathway | post-Golgi vesicle-mediated transport
+TPO1	Cluster#1	850631	[YLL028W]	protein_coding	Initial Gene From Selection	fungal-type vacuole membrane | bounding membrane of organelle
+TUB3	Cluster#1	854915	[YML124C]	protein_coding	Initial Gene From Selection	nuclear migration along microtubule | microtubule
+VMA2	Cluster#1	852424	[VAT2, YBR127C]	protein_coding	Initial Gene From Selection	regulation of cellular pH | fungal-type vacuole membrane | bounding membrane of organelle
+VMA8	Cluster#1	856659	[YEL051W]	protein_coding	Initial Gene From Selection	regulation of cellular pH | fungal-type vacuole membrane | bounding membrane of organelle
+VPS1	Cluster#1	853870	[GRD1, LAM1, SPO15, VPL1, VPT26, YKR001C]	protein_coding	Initial Gene From Selection	protein localization to Golgi apparatus | maintenance of protein location in cell | microtubule binding
+VPS16	Cluster#1	856062	[CVT15, SVL6, VAM9, VPT16, YPL045W]	protein_coding	Initial Gene From Selection	cytosolic transport | late endosome to vacuole transport | post-Golgi vesicle-mediated transport
+VPS25	Cluster#1	853566	[VPL12, VPT25, YJR102C]	protein_coding	Initial Gene From Selection	ESCRT complex | carbon catabolite repression of transcription | ATP transport | protein homodimerization activity
+VPS28	Cluster#1	856040	[VPL13, VPT28, YPL065W]	protein_coding	Initial Gene From Selection	ESCRT complex | ATP transport | ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+VPS36	Cluster#1	851135	[GRD12, VAC3, VPL11, YLR417W]	protein_coding	Initial Gene From Selection	ESCRT complex | carbon catabolite repression of transcription | protein localization to Golgi apparatus | ATP transport
+VPS51	Cluster#1	853890	[API3, VPS67, WHI6, YKR020W]	protein_coding	Initial Gene From Selection	retrograde transport, endosome to Golgi | cytosolic transport | endosomal transport
+VPS52	Cluster#1	852095	[SAC2, YDR484W]	protein_coding	Initial Gene From Selection	Rab GTPase binding | retrograde transport, endosome to Golgi | cytosolic transport
+VPS72	Cluster#1	852096	[SWC2, YDR485C]	protein_coding	Initial Gene From Selection	Swr1 complex | histone exchange | SWI/SNF superfamily-type complex
+VPS9	Cluster#1	854876	[VPL31, VPT9, YML097C]	protein_coding	Initial Gene From Selection	late endosome to vacuole transport via multivesicular body sorting pathway | ubiquitin binding | cytosolic transport
+WAR1	Cluster#1	854899	[YML076C]	protein_coding	Initial Gene From Selection	cellular response to pH | cellular response to abiotic stimulus | RNA polymerase II transcription factor activity, sequence-specific DNA binding
+YAF9	Cluster#1	855616	[YNL107W]	protein_coding	Initial Gene From Selection	Swr1 complex | histone exchange | SWI/SNF superfamily-type complex
+YAP1	Cluster#1	855005	[PAR1, PDR4, SNQ3, YML007W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | response to reactive oxygen species | regulation of transcription from RNA polymerase II promoter in response to stress
+YPT6	Cluster#1	850966	[YLR262C]	protein_coding	Initial Gene From Selection	intra-Golgi vesicle-mediated transport | retrograde transport, endosome to Golgi | cytosolic transport | endosomal transport
+YRM1	Cluster#1	854343	[YOR172W]	protein_coding	Initial Gene From Selection	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding | core promoter proximal region sequence-specific DNA binding | transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+YRR1	Cluster#1	854333	[PDR2, YOR162C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to oxidative stress | regulation of transcription from RNA polymerase II promoter in response to stress | transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding
+ZWF1	Cluster#1	855480	[MET19, POS10, YNL241C]	protein_coding	Initial Gene From Selection	carbon catabolite repression of transcription | NADP metabolic process | response to reactive oxygen species

@@ -1,0 +1,9 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+ADE1	Cluster#1	851272	[YAR015W]	protein_coding	Initial Gene From Selection	IMP biosynthetic process
+ADE13	Cluster#1	851073	[BRA1, BRA8, YLR359W]	protein_coding	Initial Gene From Selection	IMP biosynthetic process
+ADE17	Cluster#1	855149	[YMR120C]	protein_coding	Initial Gene From Selection	IMP biosynthetic process
+CAD1	Cluster#1	852033	[YAP2, YDR423C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | response to inorganic substance
+CRZ1	Cluster#1	855704	[HAL8, TCN1, YNL027W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | response to inorganic substance
+MSN2	Cluster#1	855053	[YMR037C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | response to inorganic substance
+SMP1	Cluster#1	852480	[YBR182C]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress
+YAP1	Cluster#1	855005	[PAR1, PDR4, SNQ3, YML007W]	protein_coding	Initial Gene From Selection	regulation of transcription from RNA polymerase II promoter in response to stress | response to inorganic substance

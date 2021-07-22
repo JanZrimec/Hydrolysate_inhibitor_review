@@ -1,0 +1,6 @@
+NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
+ADH6	Cluster#1	855368	[ADHVI, YMR318C]	protein_coding	Initial Gene From Selection	alcohol dehydrogenase (NADP+) activity | oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+ADH7	Cluster#1	850469	[ADHVII, YCR105W]	protein_coding	Initial Gene From Selection	alcohol dehydrogenase (NADP+) activity | oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+ARI1	Cluster#1	852720	[YGL157W]	protein_coding	Initial Gene From Selection	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GRE3	Cluster#1	856504	[YHR104W]	protein_coding	Initial Gene From Selection	alcohol dehydrogenase (NADP+) activity | oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+YGL039W	Cluster#1	852844	[]	protein_coding	Initial Gene From Selection	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor

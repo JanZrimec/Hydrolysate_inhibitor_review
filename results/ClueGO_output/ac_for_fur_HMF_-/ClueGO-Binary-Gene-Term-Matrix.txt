@@ -1,0 +1,31 @@
+NAME	ADR1	ARF1	BCH1	CAT8	DAL81	ECM22	ERG5	EXO5	GAL4	GZF3	HDA2	LEU3	MSN4	PDR1	PDR8	PUT3	RCY1	RDR1	RPN4	SIN3	SIN4	SPO22	STB5	SWI3	TOP1	TPS2	UPC2	VPS16	VPS8	WAR1	WHI2	YAP1	YRM1	YRR1
+carbon catabolite activation of transcription from RNA polymerase II promoter	1	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+transcription regulatory region sequence-specific DNA binding	1	0	0	1	0	1	0	0	1	1	0	0	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1
+RNA polymerase II transcription factor activity, sequence-specific DNA binding	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	0	0	0	1	0	0	0	1	0	0	1	0	0	1	1
+transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	1	0	0	1	0	1	0	0	1	0	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1
+RNA polymerase II transcription factor binding	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+transcriptional repressor activity, RNA polymerase II transcription factor binding	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	0	0	0	1	0	1	0	0	1	1	0	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1
+DNA binding	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	0	0	1	0	1	1	1
+alcohol metabolic process	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+regulation of transcription from RNA polymerase II promoter	1	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	0	0	1	0	1	1	1
+ergosterol biosynthetic process	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+post-Golgi vesicle-mediated transport	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+response to heat	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0
+regulation of cellular ketone metabolic process	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+positive regulation of macromolecule metabolic process	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	0	1	0	0	1	0	0	1	1
+organic acid catabolic process	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+positive regulation of cellular catabolic process	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+response to nutrient levels	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+cellular response to nutrient levels	1	0	0	1	1	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+cellular response to heat	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+positive regulation of transcription from RNA polymerase II promoter in response to stress	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sequence-specific DNA binding	1	0	0	1	0	1	0	0	1	1	0	0	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	1	1	1
+regulation of transcription from RNA polymerase II promoter in response to stress	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1
+cellular amine metabolic process	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+positive regulation of cellular amino acid metabolic process	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+positive regulation of lipid metabolic process	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+positive regulation of transcription from RNA polymerase II promoter	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	1	0	0	1	0	0	1	0	0	1	1
+transition metal ion binding	0	0	0	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	1	1
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	1	0	0	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0

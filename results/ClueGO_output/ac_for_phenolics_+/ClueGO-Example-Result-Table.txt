@@ -1,0 +1,4 @@
+LeadingGOTerm	GOID	GOTerm	Ontology Source	Term PValue	Term PValue Corrected with Benjamini-Hochberg	Group PValue	Group PValue Corrected with Benjamini-Hochberg	GOLevels	GOGroups	% Associated Genes	Nr. Genes	Associated Genes Found
+true	GO:0006188	IMP biosynthetic process	GO_BiologicalProcess-GOA_17.11.2016_10h53	2.3866971109990413E-6	3.5800456664985618E-6	2.3866971109990413E-6	4.773394221998083E-6	[8, 9, 10, 11]	Group0	25.0	3	[ADE1, ADE13, ADE17]
+false	GO:0010035	response to inorganic substance	GO_BiologicalProcess-GOA_17.11.2016_10h53	2.0506289477866858E-5	2.0506289477866858E-5	5.147639984609537E-6	5.147639984609537E-6	[3]	Group1	5.479452	4	[CAD1, CRZ1, MSN2, YAP1]
+true	GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress	GO_BiologicalProcess-GOA_17.11.2016_10h53	1.158368797698304E-7	3.475106393094912E-7	5.147639984609537E-6	5.147639984609537E-6	[5, 7, 8, 9, 10, 11, 12]	Group1	9.090909	5	[CAD1, CRZ1, MSN2, SMP1, YAP1]

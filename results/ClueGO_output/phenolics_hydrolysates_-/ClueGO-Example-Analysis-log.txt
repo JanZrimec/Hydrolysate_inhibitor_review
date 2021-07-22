@@ -1,0 +1,81 @@
+ClueGO Network ID: ClueGO_output
+ClueGO Network SUID: 26332
+
+### All results were created with ClueGO v2.5.7 ###
+Organism analyzed: Saccharomyces cerevisiae S288c [559292, 4932]
+Identifier types used: [EnsemblGeneID, EnsemblProteinID, EnsemblTranscriptID, EntrezGeneID, SymbolID]
+Evidence codes used: [All]
+#Genes in GO_MolecularFunction-GOA_17.11.2016_10h53 : 5830
+#Genes in GO_CellularComponent-GOA_17.11.2016_10h53 : 5612
+#Genes in GO_BiologicalProcess-GOA_17.11.2016_10h53 : 5831
+
+#All unique genes in selected ontologies: 5837 (reference set for hypergeometric test)
+
+#Genes from Cluster#1: unique uploaded ids 98 -> corresponding genes 97, with 1 (1.02%) missing  -> 97 recognized by ClueGO.
+ -> To improve the % of found genes, verify gene identifiers, download new available ClueGO conversion files or add/request additional files.
+
+#Genes with functional annotations in all selected Ontologies from Cluster#1: 95 (97.94%) -> 2 (2.06%) are not functionally annotated in any selected Ontology!
+ -> To improve the % of annotated genes, chose additional ontologies.
+
+#Genes from all Clusters associated to 235 representative Terms and Pathways (after applying general selection criteria): 88 (90.72%)
+#Genes from all Clusters associated to 105 representative Terms and Pathways (after fusion selection criteria): 86 (88.66%)
+#Genes from all Clusters associated to 99 representative Terms and Pathways (after p-value significance selection criteria): 85 (87.63%)
+
+KappaScore Grouping:
+Iteration: 0 with 46 groups
+Iteration: 1 with 51 groups
+Iteration: 2 with 50 groups
+Iteration: 3 with 34 groups
+Iteration: 4 with 24 groups
+Iteration: 5 with 13 groups
+Final KappaScore groups  = 13
+# Terms not grouped  = 0
+
+# Merge redundant groups with >50.0% overlap
+Final group size after merging: 13
+
+#GO All Terms Specific for Cluster #1: 99
+#GO Terms: 99
+#GO Term Connections: 217
+
+Ontology used:
+GO_BiologicalProcess-GOA_17.11.2016_10h53
+GO_CellularComponent-GOA_17.11.2016_10h53
+GO_MolecularFunction-GOA_17.11.2016_10h53
+
+Evidence codes used:
+All
+
+Identifiers used:
+EnsemblGeneID
+EnsemblProteinID
+EnsemblTranscriptID
+EntrezGeneID
+SymbolID
+
+
+List of missing Genes:
+Cluster #1
+Gene IDs not found (no annotation or wrong ids) in Cluster#1:
+VPS61
+
+
+
+Statistical Test Used = Enrichment/Depletion (Two-sided hypergeometric test)
+Use pvalue cutoff = true
+pvalue cutoff = 0.05
+Correction Method Used = Benjamini-Hochberg
+Min GO Level = 3
+Max GO Level = 8
+Cluster #1
+Sample File Name = File selection: 
+Number of Genes = 3
+Min Percentage = 4.0
+
+GO Fusion = true
+GO Group = true
+Kappa Score Threshold = 0.4
+Over View Term = SmallestPValue
+Group By Kappa Statistics = true
+Initial Group Size = 1
+Sharing Group Percentage = 50.0
