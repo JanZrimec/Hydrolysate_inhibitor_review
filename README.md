@@ -1,5 +1,7 @@
-## Hydrolysate inhibitor review
+## Engineering Saccharomyces cerevisiae for increased tolerance towards inhibitors in lignocellulosic hydrolysates
 
-This repository contains supplementary data and scripts to reproduce the GO enrichment analysis. The data and and scripts are available in the respective folders 'data' and 'scripts', with results provided in the 'results' folder.
+<img src=https://github.com/JanZrimec/DeepExpression/blob/master/docs/Figure_1a.png alt="drawing" width="600">
 
-Dependencies are provided in the conda environment.yml file in the 'docs' folder, and Cytoscape v3.7.2 was used with the plugins ClueGO v2.5.7 and CluePedia v1.5.7.
+Figure 1. To address the question of how yeast can be engineered for improved tolerance towards lignocellulosic hydrolysates, we have collected and statistically analysed the available data in literature. A meta-analysis of existing work on genetic alterations (gene deletion or overexpression) for tolerance towards individual inhibitors in lignocellulosic hydrolysates or to a hydrolysate as such was performed. UpSet plots represents the number of genes characterized in medium supplemented with different inhibitors or hydrolysates that resulted in a phenotypic change (sensitivity or tolerance towards the inhibitor), and the intersection among different sets.
+
+This repository contains supplementary data and results to accompany the study.
