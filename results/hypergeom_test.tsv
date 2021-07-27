@@ -1,0 +1,31 @@
+inhibitor1	inhibitor2	growth_effect	population_size	inh1_subset	inh2_subset	overlap	pvalue
+acetate	furfural	+	4411	2220	41	18	0.8373508936411235
+acetate	furfural	-	4411	427	174	19	0.3229920697548705
+acetate	HMF	+	4411	2220	24	7	0.9897570026465604
+acetate	HMF	-	4411	427	20	0	1.0
+acetate	formic acid	+	4411	2220	10	2	0.9898895885937147
+acetate	formic acid	-	4411	427	19	0	1.0
+acetate	phenolics	+	4411	2220	20	11	0.4233456342507947
+acetate	phenolics	-	4411	427	152	17	0.2999285733508108
+acetate	hydrolysates	+	4411	2220	423	152	0.9999999998666897
+acetate	hydrolysates	-	4411	427	2381	108	1.0
+furfural	HMF	+	4411	41	24	0	1.0
+furfural	HMF	-	4411	174	20	0	1.0
+furfural	formic acid	+	4411	41	10	0	1.0
+furfural	formic acid	-	4411	174	19	0	1.0
+furfural	phenolics	+	4411	41	20	0	1.0
+furfural	phenolics	-	4411	174	152	14	0.0024219028784030353
+furfural	hydrolysates	+	4411	41	423	3	0.7677043907534554
+furfural	hydrolysates	-	4411	174	2381	90	0.754038710942436
+HMF	formic acid	+	4411	24	10	8	1e-16
+HMF	formic acid	-	4411	20	19	19	1e-16
+HMF	phenolics	+	4411	24	20	2	0.005078374437684422
+HMF	phenolics	-	4411	20	152	14	1e-16
+HMF	hydrolysates	+	4411	24	423	11	4.369634147505464e-06
+HMF	hydrolysates	-	4411	20	2381	18	0.0006732714870116975
+formic acid	phenolics	+	4411	10	20	2	0.0008601161589476625
+formic acid	phenolics	-	4411	19	152	13	1.3161032082613372e-15
+formic acid	hydrolysates	+	4411	10	423	4	0.010951922893015085
+formic acid	hydrolysates	-	4411	19	2381	17	0.0011334022737208736
+phenolics	hydrolysates	+	4411	20	423	9	4.0454753809807546e-05
+phenolics	hydrolysates	-	4411	152	2381	95	0.019104008007810425
