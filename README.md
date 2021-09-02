@@ -1,4 +1,4 @@
-## Engineering Saccharomyces cerevisiae for increased tolerance towards inhibitors in lignocellulosic hydrolysates
+## Data mining of Saccharomyces cerevisiae mutants engineered for increased tolerance towards inhibitors in lignocellulosic hydrolysates
 
 <img src=https://github.com/JanZrimec/Hydrolysate_inhibitor_review/blob/main/docs/Figure_1a.png alt="drawing" width="600">
 
