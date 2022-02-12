@@ -5,3 +5,6 @@ In order to gain in depth understanding of metabolic traits beneficial for conve
 
 ### References for data in database.docx
 Database literature references.
+
+### Supplementary Table 1.docx
+Supplementary table with data on hydrolysate composition.
